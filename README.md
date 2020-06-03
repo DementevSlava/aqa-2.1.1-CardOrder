@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/krqydg4nmc01xpqp/branch/master?svg=true)](https://ci.appveyor.com/project/DementevSlava/aqa-1-2-1-postmanecho/branch/master)
